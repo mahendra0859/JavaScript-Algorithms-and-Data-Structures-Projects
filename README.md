@@ -1,7 +1,7 @@
-# JavaScript-Algorithms-and-Data-Structures-Projects
+# JavaScript Algorithms and Data Structures Projects - freecodecamp
 Introduction to the JavaScript Algorithms and Data Structures Projects
 
-## JavaScript Algorithms and Data Structures Projects: Palindrome Checker
+## 1) Palindrome Checker
 Return true if the given string is a palindrome. Otherwise, return false.
 
 A *palindrome* is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
@@ -23,7 +23,7 @@ palindrome("1 eye for of 1 eye.") should return false.
 palindrome("0_0 (: /-\ :) 0-0") should return true.  
 palindrome("five|\_/|four") should return false.  
 
-## JavaScript Algorithms and Data Structures Projects: Roman Numeral Converter
+## 2) Roman Numeral Converter
 Convert the given number into a roman numeral.
 
 **Test Cases**  
