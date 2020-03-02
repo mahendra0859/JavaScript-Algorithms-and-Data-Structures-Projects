@@ -1,3 +1,5 @@
+# Data Structures in JavaScript
+
 # JavaScript Algorithms and Data Structures Projects - freecodecamp
 Introduction to the JavaScript Algorithms and Data Structures Projects
 
