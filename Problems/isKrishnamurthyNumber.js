@@ -2,6 +2,7 @@
  * A Krishnamurthy number is a number whose sum of the factorial of digits is equal to the number itself.
  *  For example 145, sum of factorial of each digits:
  *  1! + 4! + 5! = 1 + 24 + 120 = 145
+ * Link : https://www.geeksforgeeks.org/check-if-a-number-is-a-krishnamurthy-number-or-not-2/
  */
 
 // Function to calculate the factorial of any number
