@@ -1,6 +1,6 @@
 # Javascript Challenges
 
-[Click here for thr playlist in youtube](https://www.youtube.com/watch?v=yG03EvfHSIU&list=PLnHJACx3NwAdQElswAscNtHAZLAQYgpDA)
+[Click here for the playlist in youtube](https://www.youtube.com/watch?v=yG03EvfHSIU&list=PLnHJACx3NwAdQElswAscNtHAZLAQYgpDA)
 
 - Installing TypeScript
 
@@ -12,7 +12,20 @@ $ tsc --version
 - TypeScript compiler
 
 ```
-tsc file_name.ts --target es6 --outDir "../Javascript"
+$ tsc file_name.ts --target es6 --outDir "../Javascript"
+```
+
+- TypeScript compiler with watch mode
+
+```
+$ tsc -w file_name.ts
+```
+
+- Install 'ts-node' package globally to execute TypeScript file without compiling
+
+```
+$ npm i -g ts-node
+$ ts-node file_name.ts
 ```
 
 ##### Supported options for target are:
